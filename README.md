@@ -63,13 +63,13 @@ Currently focused on improving my skills in:
 
 ---
 
+
 # 📁 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
-| Hotel & Restaurant Management System | A management system with accounting and financial modules for hotel and restaurant operations. | PHP, MySQL, TailwindCSS |
-| Research Management System | A Bootstrap-based system for managing research records and documentation. | Bootstrap, PHP, MySQL |
-| Accounts Payable & Receivable Module | Financial tracking module with CRUD operations and dashboard UI. | PHP, JavaScript, TailwindCSS |
+| **School Management System 3: CRAD (Center for Research and Development)** | Smart Event Scheduling & Conflict Detection System for Bestlink College of the Philippines. Automates the research lifecycle with an intelligent conflict-detection algorithm for defense schedules. <br><br> 🎓 Bestlink College of the Philippines • Cluster 7 Project <br> 👨‍💻 Role: Lead Programmer | Laravel 10, PHP, JavaScript, MySQL, Bootstrap 5, NodeJS, XAMPP |
+
 
 ---
 
@@ -94,9 +94,9 @@ Currently focused on improving my skills in:
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: Your LinkedIn Here
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: Your Portfolio Here
+- 💼 LinkedIn:https://www.linkedin.com/in/bret-baa-45a9053ba
+- 📧 Email: baabretabing@gmail.com
+- 🌐 Portfolio: bret-portfolio-4.vercel.app
 
 ---
 
