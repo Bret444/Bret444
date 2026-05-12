@@ -90,6 +90,7 @@ Currently focused on improving my skills in:
 - Database Optimization
 - Backend Architecture
 - Git & Collaboration Workflow
+- CyberSecurity
 
 ---
 
