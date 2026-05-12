@@ -55,12 +55,8 @@ Currently focused on improving my skills in:
 
 ---
 
-# 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bret444&show_icons=true&theme=radical" alt="Bret444's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bret444&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 ### 📈 Contribution Overview
 - 📌 202+ contributions in the last year
 - 🚀 Increased activity through Laravel and PHP projects
