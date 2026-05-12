@@ -1,16 +1,109 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bret444/Bret444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My GitHub Profile
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=24&duration=4000&pause=500&lines=IT+Graduate;Aspiring+Web+Developer;PHP+%7C+Laravel+Learner;Building+Projects+with+AI+Assistance&center=true&width=600&height=50)](https://github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ Passionate about building web applications and continuously learning new technologies.
+```
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm an IT graduate who enjoys building web applications and exploring backend development using PHP and Laravel.
+
+I have experience creating academic and personal projects involving CRUD systems, dashboards, database management, and responsive user interfaces. I also use AI tools to assist with debugging, UI improvements, documentation, and speeding up development workflows.
+
+Currently focused on improving my skills in:
+- Laravel Development
+- REST APIs
+- Database Design
+- Clean & Maintainable Code
+
+---
+
+# 💻 Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+</div>
+
+---
+
+# 📁 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|-------------|
+| Hotel & Restaurant Management System | A management system with accounting and financial modules for hotel and restaurant operations. | PHP, MySQL, TailwindCSS |
+| Research Management System | A Bootstrap-based system for managing research records and documentation. | Bootstrap, PHP, MySQL |
+| Accounts Payable & Receivable Module | Financial tracking module with CRUD operations and dashboard UI. | PHP, JavaScript, TailwindCSS |
+
+---
+
+# 🌱 Currently Learning
+
+- Laravel Framework
+- REST API Development
+- Database Optimization
+- Backend Architecture
+- Git & Collaboration Workflow
+
+---
+
+# 🎯 Goals
+
+- Improve backend development skills
+- Build real-world Laravel projects
+- Contribute to open-source projects
+- Learn better software development practices
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: Your LinkedIn Here
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: Your Portfolio Here
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+
+⭐ Thanks for visiting my profile!
+
+</div>
