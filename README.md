@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Welcome to My GitHub Profile
+# 👋 Welcome
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=24&duration=4000&pause=500&lines=IT+Graduate;Aspiring+Web+Developer;PHP+%7C+Laravel+Learner;Building+Projects+with+AI+Assistance&center=true&width=600&height=50)](https://github.com/)
 
 ```bash
-$ Passionate about building web applications and continuously learning new technologies.
+$ Consistently learning, building, and improving through real-world projects.
 ```
 
 </div>
@@ -16,7 +16,13 @@ $ Passionate about building web applications and continuously learning new techn
 
 I'm an IT graduate who enjoys building web applications and exploring backend development using PHP and Laravel.
 
-I have experience creating academic and personal projects involving CRUD systems, dashboards, database management, and responsive user interfaces. I also use AI tools to assist with debugging, UI improvements, documentation, and speeding up development workflows.
+Over the past year, I’ve been consistently improving my GitHub activity by working on academic and personal development projects focused on backend systems, CRUD applications, dashboards, and database-driven platforms.
+
+I also use AI tools to assist with:
+- Debugging and problem-solving
+- UI/UX improvements
+- Documentation and workflow optimization
+- Accelerating project development
 
 Currently focused on improving my skills in:
 - Laravel Development
@@ -49,7 +55,7 @@ Currently focused on improving my skills in:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -61,15 +67,19 @@ Currently focused on improving my skills in:
 
 </div>
 
----
+### 📈 Contribution Overview
+- 📌 202+ contributions in the last year
+- 🚀 Increased activity through Laravel and PHP projects
+- 💻 Consistently building and improving personal systems
+- 📚 Focused on continuous learning and hands-on development
 
+---
 
 # 📁 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|-------------|-------------|
 | **School Management System 3: CRAD (Center for Research and Development)** | Smart Event Scheduling & Conflict Detection System for Bestlink College of the Philippines. Automates the research lifecycle with an intelligent conflict-detection algorithm for defense schedules. <br><br> 🎓 Bestlink College of the Philippines • Cluster 7 Project <br> 👨‍💻 Role: Lead Programmer | Laravel 10, PHP, JavaScript, MySQL, Bootstrap 5, NodeJS, XAMPP |
-
 
 ---
 
@@ -94,9 +104,9 @@ Currently focused on improving my skills in:
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn:https://www.linkedin.com/in/bret-baa-45a9053ba
+- 💼 LinkedIn: https://www.linkedin.com/in/bret-baa-45a9053ba
 - 📧 Email: baabretabing@gmail.com
-- 🌐 Portfolio: bret-portfolio-4.vercel.app
+- 🌐 Portfolio: https://bret-portfolio-4.vercel.app
 
 ---
 
