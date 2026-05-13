@@ -2,7 +2,7 @@
 
 # 👋 Welcome
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=24&duration=4000&pause=500&lines;Aspiring+Web+Developer;PHP+%7C+Laravel+Learner;Building+Projects+with+AI+Assistance&center=true&width=600&height=50)](https://github.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=24&duration=4000&pause=500&lines;Aspiring+Web+Developer;Aspiring+Cybersecurity;PHP+%7C+Laravel+Learner;Building+Projects+with+AI+Assistance&center=true&width=600&height=50)](https://github.com/)
 
 ```bash
 $ Consistently learning, building, and improving through real-world projects.
