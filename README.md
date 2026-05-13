@@ -14,9 +14,8 @@ $ Consistently learning, building, and improving through real-world projects.
 
 ## 🚀 About Me
 
-I'm an IT graduate who enjoys building web applications and exploring backend development using PHP and Laravel and other frameworks.Furthermore, I'm A quiet and observant individual who may take time to fully understand new
-concepts, but is committed to improving through patience, consistency, and hard work.
-Over the past year, I’ve been consistently improving my GitHub activity by working on academic and personal development projects focused on backend systems, CRUD applications, dashboards, and database-driven platforms.
+I'm an IT graduate who enjoys building web applications and exploring backend development using PHP and Laravel and other frameworks. Furthermore, I'm A quiet and observant individual who may take time to fully understand new
+concepts, but is committed to improving through patience, consistency, and hard work. Over the past year, I’ve been consistently improving my GitHub activity by working on academic and personal development projects focused on backend systems, CRUD applications, dashboards, and database-driven platforms.
 
 I also use AI tools to assist with:
 - Debugging and problem-solving
